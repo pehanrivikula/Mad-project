@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GOODREADS</string>
+    //Books//
+    <string name="Book1">Forbidden Knowledge</string>
+    <string name="Book2">From Failure to Success</string>
+    <string name="Book3">Midnight Sun</string>
+    <string name="Book4">Avatar - The Last Airbender</string>
+</resources>
